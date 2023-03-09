@@ -1,0 +1,51 @@
+*{
+    background-color: black;
+    }
+.acerca_de_mi{
+
+color: white;
+text-align: center;
+
+}
+
+.habilidades{
+   
+    color: white;
+text-align: center;
+}
+
+.uno{
+  
+    width: 80px;
+    height: 80px;
+    display: inline-block;
+   
+}
+
+.dos{
+  
+    width: 80px;
+    height: 80px;
+    display: inline-block;
+}
+.tres{
+  
+    width: 80px;
+    height: 80px;
+    display: inline-block;
+}
+.cuatro{
+  
+    width: 80px;
+    height: 80px;
+    display: inline-block;
+}
+
+img {
+    padding: 10px;
+    border: 5px solid;
+    float : none;
+    width: 80px;
+    height: 80px;
+    display: block;
+}
